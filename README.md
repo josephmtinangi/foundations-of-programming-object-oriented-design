@@ -1,1 +1,1 @@
-# foundations-of-programming-object-oriented-design
+# Foundations Of Programming Object Oriented Design
