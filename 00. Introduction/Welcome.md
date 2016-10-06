@@ -1,0 +1,2 @@
+- There is difference between writing codes and designing 
+- Understanding designing from scratch
